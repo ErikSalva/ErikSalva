@@ -6,12 +6,6 @@
 
 Soy un estudiante avanzado de ingeniería en sistemas con una pasión por el desarrollo de software y el diseño web. Estoy en constante aprendizaje y siempre buscando mejorar mis habilidades.
 
-## Proyecto destacado
-
-### Mi Portafolio en Línea
-- Descripción: Mi portafolio en línea, donde muestro mis habilidades y proyectos como estudiante de desarrollo web.
-- Tecnologías utilizadas: HTML5, CSS3, Bootstrap Icons.
-- Enlace: [Mi Portafolio en Línea](https://eriksalva.github.io/Portfolio-trabajo-practico-final/)
 
 ## Habilidades
 
