@@ -38,6 +38,18 @@
 
 ---
 
+## 🚀 Proyectos Destacados
+
+- [Petshop E-commerce](https://github.com/ErikSalva/petshop-ecommerce)  
+  Aplicación de comercio electrónico para mascotas con frontend en React y backend en Node.js/Express. Incluye gestión de usuarios, carrito de compras, subida de imágenes y más.
+
+- [Portfolio Personal](https://github.com/ErikSalva/portfolio-trabajo-practico-final-2)  
+  Mi portfolio donde presento mis proyectos, experiencia y habilidades técnicas.
+
+---
+
+---
+
 ## 🙋‍♂️ Conectá conmigo:
 
 <p align="left">
@@ -48,6 +60,7 @@
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+📧 Correo: erikshalva@gmail.com
 
 ---
 
